@@ -1,7 +1,7 @@
-# Личный проект «Глейси»
+﻿# Личный проект «Глейси»
 
 * Студент: [Lubov Andreeva](https://up.htmlacademy.ru/htmlcss/14/user/224943).
-* Наставник: `Неизвестно`.
+* Наставник: [Катерина Шелег](https://htmlacademy.ru/profile/id43436).
 
 ---
 
